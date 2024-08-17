@@ -1,1 +1,1 @@
-# data-analysis-using-power-bi
+ This report offers a comprehensive overview of product performance, detailing sales and profit generation across various countries. Through meticulous analysis and clear visual representations, we provide actionable insights into product profitability. By examining sales and profit trends, we identify high-performing products and markets, enabling data-driven decisions to optimize strategies and maximize returns.
